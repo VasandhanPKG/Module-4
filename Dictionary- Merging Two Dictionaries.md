@@ -21,6 +21,7 @@ print(c)
 
 ## Output
 ![image](https://github.com/user-attachments/assets/252eab81-0ad5-4f20-a7f0-2183b3c1db4b)
+![image](https://github.com/user-attachments/assets/f7a20db7-48d1-4145-89b9-46585272d704)
 
 ## Result
 Thus the program executed successfully.
